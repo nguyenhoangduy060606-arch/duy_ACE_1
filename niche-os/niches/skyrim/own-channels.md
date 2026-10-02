@@ -15,7 +15,7 @@
 4. **Chưa có video neo theo tháng/mùa**, trong khi đây là nguồn hit chính của 3 kênh tầng A.
 5. Độ nét: Elder Realm ("DLSS 5") và Scenic Pixels ("4K") đều lấy độ nét làm điểm bán hàng → video chưa nét là bất lợi thật, nhưng là yếu tố thứ 2 sau title/chủ đề.
 
-**Làm tiếp**: ý tưởng #1, #2, #4, #5 trong content-pool. A/B title 1 từ (#9) sau khi có ~15 video.
+**Làm tiếp**: ý tưởng #1, #2, #4, #5 trong content-pool. (Đã điều chỉnh: xem báo cáo chi tiết phần 3.1 — Noctis đi làn đêm/mưa.)
 
 ## Memory Synth — `@MemorySynth` · UCnjgzg7rNbj8yHVWjs8pUOQ
 

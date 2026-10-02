@@ -1,5 +1,10 @@
 # Animal — content pool (2026-10-02)
 
+> **Cập nhật sau báo cáo chi tiết** (`reports/2026-10-02-seo-chu-de-chi-tiet.md`): nội dung dưới đây là bản quét đầu, một số nhận định đã được sửa trong báo cáo — ưu tiên báo cáo khi mâu thuẫn.
+
+> Thay đổi chính: "Why We Can't Truly Explore the Deep [X]" đang hao mòn (Madagascar 221k, Pantanal 13.8k; copy nguyên title Congo chỉ 29.6k) → hạ ưu tiên; ưu tiên khung "Why Were Prehistoric X So Much More Terrifying Than Modern X" và góc so sánh.
+
+
 Chọn 1 làn chính cho Wild Epochs trước khi chạy pool (xem `own-channels.md`). Đề xuất: **L1 (12–20 phút) làm chính, L2 (45–60 phút) làm phụ 1 video/tuần.**
 
 ## Khung title đã chứng minh → biến số chưa ai làm

@@ -1,5 +1,10 @@
 # Skyrim — SEO & chủ đề (dữ liệu 2026-10-02)
 
+> **Cập nhật sau báo cáo chi tiết** (`reports/2026-10-02-seo-chu-de-chi-tiet.md`): nội dung dưới đây là bản quét đầu, một số nhận định đã được sửa trong báo cáo — ưu tiên báo cáo khi mâu thuẫn.
+
+> Sửa: `skyrim study music` (28k, +29%) và `skyrim library music` (27k, +64%) là từ khoá thật; cái sai là cụm dài "for Deep Focus, Reading & Writing" và tags kiểu `office background music`. StarryNight "2014" là video Minecraft.
+
+
 Nguồn: metadata thật của 42 video (`data/raw/skyrim-top-videos-2026-10-02.json`) + vidIQ keyword research.
 
 ## 1. Phát hiện số 1: hit lớn nhất KHÔNG thắng nhờ metadata

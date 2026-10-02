@@ -1,5 +1,10 @@
 # Skyrim — content pool (2026-10-02)
 
+> **Cập nhật sau báo cáo chi tiết** (`reports/2026-10-02-seo-chu-de-chi-tiet.md`): nội dung dưới đây là bản quét đầu, một số nhận định đã được sửa trong báo cáo — ưu tiên báo cáo khi mâu thuẫn.
+
+> Thay đổi chính: Noctis chuyển sang bản sắc **đêm/mưa/quán rượu**, không làm "[Tháng] Morning" (làn của Ancient Ambient/Elder Realm); bỏ ý tưởng title 1 từ (hit của StarryNight là Minecraft).
+
+
 ## Ma trận quay: địa điểm × điều kiện
 
 Ô có số = đã có hit đối thủ (view cao nhất). Ô trống = chưa thấy ai làm thắng → thử.
@@ -25,7 +30,7 @@
 | Đăng trong | Neo chủ đề | Lý do |
 |---|---|---|
 | 05–20/10 | Sương mù tháng 10, mưa thu, Riften/Falkreath | "October Morning" đã bị Ancient Ambient + Elder Realm chiếm ngày 01/10, nên đánh góc khác |
-| 20/10–01/11 | **November Morning in Skyrim**, Frostfall, First Snow | Pre-empt tháng 11 như Elder Realm làm với tháng 10 |
+| 20/10–01/11 | **November Morning in Skyrim**, Frostfall, First Snow | Elder Realm đổi tên September → October trên video cũ ngày 01/10 |
 | 01–25/11 | Winter, tuyết Windhelm/Dawnstar, cực quang | Mùa của Memory Synth (hit cũ: Depths of Winter 24.6k) |
 | 25/11–25/12 | Christmas/Saturalia, lò sưởi, Northern Lights | Dilly Winter 733k, Fireplace 599k; Scenic Saturalia 17k |
 | 26–31/12 | New Year / "December Night" | Memory Synth năm ngoái: Fireworks NYE 1.5k (yếu → ưu tiên thấp) |
