@@ -1,0 +1,19 @@
+# SN3 raw notes (2026-10-02)
+- Topic VPH "the mothers monster": 09-14 1.8k -> 09-21 708,583 (peak) -> 09-30 187,674 (-74% from peak)
+- Searches: the mothers monster 642,290/mo (PK 32%, VN 28%, IN 6%, BD 6%, US 1.8%); the mothers monster full movie 38,103; dragon full movie 30,050 (+64%); full fantasy movie 32,414 (+85%); dark fantasy movie 24,731 (+459%)
+- MYTHRA (UCQnhXRLVlz161PmIuqA9e4A): 190k subs, 3 videos, 60.4M views; "She Gave Birth to a Dragon | The Mothers Monster | Full Fantasy Movie 4K" 61.2M (28:30, 09-14); short "The Way He Cried for His Mother" 213k; desc: "PART 2 OFFICIAL TEASER IS OUT — Chapter Two premieres October 5, 6 PM ET"
+- Everflame (UCha_flZyWH8pu-14DbUIyKw, created 2026-09-05, 4 videos, 23.9k subs, 7.84M views, contact Vinhmaiai): She Raised a Monster They Tried to Kill 7,087,360 (23m, 09-18); He Killed Its Mother, Then Raised the Baby Dragon 376,174 (26m, 09-25); Alien Hunter vs Winged Demon 381,508 (11m, 09-11); KIRO II sequel 13,514 (30m, 09-29, 3 days)
+- KZK FILMS (UCuKGkCt69i3Wz37YWPGGL8w, 22.7k, 6 videos, 5.2M): Part 2 4,925,049 (17m, 09-20); Part 3 Prequel 433,239 (21m, 09-22); Part 2 Continues 207,003 (09-17); They Skinned Her Baby Dragon 7,357; Widow's Alien 7,498; Mermaid 4,380
+- CineMyth Studios (UCNjl2ifPH_a4ctP7_s0sjYA, PK, 170k, 40 vids, 9.68M): She Became a Mother to a Dragon 2,607,860 (25m, 09-20); Part 2 387,231 (2 days, vph 2,586); Aladdin Three Wishes 156,104; other Aladdin/Persia 0.4k-27k; old 2024 wildlife shorts
+- Wiggle World (38.8k, 240 vids, ex-songs channel): She Raised a Dragon… Black Dragon 2,106,945 (62m, 09-27, vph 26,115!); She Gave Birth… Village Called Him a Monster 1,731,365 (28:30 reupload) + 539,956 (45m); Part 2 39,806; DRAGON FATHER 15,989
+- Fatebound Drama (3.4k, created 2026-08-16): She Found a Dragon in the Snow 1,359,938 (25m)
+- AI Trailer Cinema (238k, 230 vids, 72.8M): A MOTHER: She Raised a Dragon in Secret… ASHBORN 2,259,561 (66m, 09-25)
+- H3 Ai Films (3.9k, AI ad studio): A Dragon Egg Chose Him as Father | DRAGON FATHER 1,154,367 (9m)
+- Capitol Insider (33.4k ex-engineering docs): Parts 2/3/4/5 = 556k/619k/335k/89k (8-9m each)
+- The Astro Mind (16.1k ex-space): Mother's Monster 2 3,708,000 (34m, 09-25); Mother's Monster 3 119,583 (10-01)
+- WUFO TV (12k ex-ancient docs): 595k / 561k / 540k
+- Alpha Series (117k HK): [Fantasy Movie] She Gave Birth To A Dragon! The Village Hunts Him As A Monster! 1,741,278 (91m)
+- Reuploads of MYTHRA 28:30 film: Princesses Skit Club 3.24M, Old Friends Short Theatre 2.79M, Ghibli World 988k, StoryFlip 473k, Anime Tale Studio 201k ...
+- Variant flops: MYTHRA(other, 635 subs) "She Raised a Lion Monster" 5,282; "She Gave Birth to a Dinosaur" 4,059; Wiggle "DRAGON FATHER" 16k vs H3 "DRAGON FATHER" 1.15M
+- VORAN (106k): A Dying Beast Gave Her Its Last Pup… The Village Called It a Monster 74,481 (2 days, vph 920)
+- Tutorial: Victoria Utin "How I Made It With AI" 37,773; Zahid Iqbal "The Mother's Monster | Official Trailer | AI-Generated Micro Movie" 589,507 (09-10, before MYTHRA full film)
