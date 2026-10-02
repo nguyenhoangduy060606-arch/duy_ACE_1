@@ -29,7 +29,7 @@ Dữ liệu từng video: `data/tracking-list-2026-10-02.csv`.
 | # | Tên kênh | Link | Chủ đề | View TB 5 video | Trung vị | Đăng gần nhất | Ghi chú |
 |---|---|---|---|---|---|---|---|
 | 1 | MYTHRA (gốc) | https://www.youtube.com/channel/UCQnhXRLVlz161PmIuqA9e4A | She Gave Birth to a Dragon (28:30) | 1 phim: 61.4M | — | 01/10 (teaser) | **Part 2 công chiếu 05/10, 18:00 ET**; teaser 249k sau 1 ngày |
-| 2 | Everflame (team VN) | https://www.youtube.com/channel/UCha_flZyWH8pu-14DbUIyKw | Mẹ nuôi quái vật/rồng | 1.97M (4 video) | 379k | 29/09 | Phần tiếp KIRO II trượt (13.7k) |
+| 2 | Everflame (nghi team VN — email liên hệ Vinhmaiai.160399@gmail.com) | https://www.youtube.com/channel/UCha_flZyWH8pu-14DbUIyKw | Mẹ nuôi quái vật/rồng | 1.97M (4 video) | 379k | 29/09 | Phần tiếp KIRO II trượt (13.7k) |
 | 3 | KZK FILMS | https://www.youtube.com/channel/UCuKGkCt69i3Wz37YWPGGL8w | Mother's Monster Part 2/3 | 1.12M | 207k | 30/09 | Chủ đề khác chỉ 4–7k |
 | 4 | The Astro Mind | https://www.youtube.com/channel/UCSOHjbISe8Ox63zdm1VSIFQ | Kênh vũ trụ chuyển sang Mother's Monster 2/3 | 752k | 234 | 01/10 | Mother's Monster 3 đạt 206k sau 1 ngày (22.8k view/giờ) |
 | 5 | CineMyth Studios (PK) | https://www.youtube.com/channel/UCNjl2ifPH_a4ctP7_s0sjYA | Mother to a Dragon + Aladdin | 565k | 27k | 30/09 | Part 2 đạt 405k sau 2.5 ngày |
